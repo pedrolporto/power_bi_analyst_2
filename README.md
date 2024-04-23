@@ -4,7 +4,7 @@ Este repositório contém os arquivos e informações relacionadas à atividade 
 
 ## Screenshots
 
-**** --- ****
+![Power BI Analyst](https://github.com/pedrolporto/power_bi_analyst_2/assets/28610184/a2ae5dd9-f174-458e-9e27-ab11e56f6d02)
 
 ## Passos realizados para transformação dos dados
 
