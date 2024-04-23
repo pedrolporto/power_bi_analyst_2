@@ -3,8 +3,9 @@
 Este repositório contém os arquivos e informações relacionadas à atividade realizada durante o curso da Digital Innovation One (DIO) sobre o Power BI.
 
 ## Screenshots
+![Power BI Analyst](https://github.com/pedrolporto/power_bi_analyst_2/assets/28610184/706f1882-2f92-4dfd-bd8a-4207a1377247)
 
-![Power BI Analyst](https://github.com/pedrolporto/power_bi_analyst_2/assets/28610184/a2ae5dd9-f174-458e-9e27-ab11e56f6d02)
+![Power BI Data Analysis](https://github.com/pedrolporto/power_bi_analyst_2/assets/28610184/a2ae5dd9-f174-458e-9e27-ab11e56f6d02)
 
 ## Passos realizados para transformação dos dados
 
